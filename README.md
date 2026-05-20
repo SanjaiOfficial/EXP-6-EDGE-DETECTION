@@ -1,4 +1,4 @@
-# edge-detection-opencv
+# EXP-6 Edge Detection OpenCV
 
 ## Aim
 
@@ -138,23 +138,28 @@ plt.show()
 ## Output
 
 ###  Sobel Edge Detector
+
 <img width="393" height="448" alt="image" src="https://github.com/user-attachments/assets/068b7a0e-a295-4c2d-9cc5-5c712d209421" />
 
 
 ###  Prewitt Edge Detector
+
 <img width="393" height="449" alt="image" src="https://github.com/user-attachments/assets/3d0d82e1-4889-4c1f-a474-6764f04cba1e" />
 
 
 
 ###  Roberts Edge Detector
+
 <img width="389" height="442" alt="image" src="https://github.com/user-attachments/assets/1d6cb41e-5cef-4890-afd6-cae6efc4e701" />
 
 
 ###  Laplacian Edge Detector
+
 <img width="396" height="443" alt="image" src="https://github.com/user-attachments/assets/b87afec5-0bea-469e-bc66-97ada8339f5c" />
 
 
 ###  Canny Edge Detector
+
 <img width="528" height="575" alt="image" src="https://github.com/user-attachments/assets/ff4c058d-9d23-4731-a329-29e0958cb474" />
 
 
